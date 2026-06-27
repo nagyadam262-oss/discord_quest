@@ -1,7 +1,7 @@
 spiegazione ITA
 
 questo bypass e stato creato da me 
-dovente insewrire qusto file in console e iniziera a fare la quest sensa che voui dovete fare niente 
+dovente inserire qusto file in console e iniziera a fare la quest sensa che voui dovete fare niente 
 fine 
 
 PS   per avere la consolo su ds bisogna istalare i dev tool
